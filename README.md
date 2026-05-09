@@ -20,4 +20,4 @@ The assessment identified:
 - Missing security headers  
 - Exposure of version information  
 - Minor script errors  
-The overall risk level is classified as Medium, with recommendations provided to improve security.
+The overall risk level is classified as **Medium**, with recommendations provided to improve security.
